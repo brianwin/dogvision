@@ -1,6 +1,7 @@
 # dogvision
 My attempt at the Zero To Mastery Udemy AI/ML Bootcamp "Dog Vision" image classification with TensorFlow project
 
+## Hardware
 The course uses Google Colab, but with some minor changes to directory names (filepaths) throughout I have this working on a local machine running Ubuntu 22.04.
 
 The machine was a 14 year old (~2009) neglected home build with an Intel Core i7 940, a Noctua air cooler with a couple of fan blades missing (hence neglected!), 24GB DDR3, a GTX 260 graphics card, on an Asus P6T WS Pro mobo (LGA1366, aka Socket B, and PCIe v2). I replaced the air cooler with a new Cooler Master ML120L V2 RGB AIO liquid cooler, and upgraded the graphics card for a better CUDA/TensorFlow capable GPU (RTX 3060 TI). I also replaced several "small by todays standards" SAS and SCSI spinning drives with a single Crucial 1Tb SSD that I had laying around - so much less noise now!!  
