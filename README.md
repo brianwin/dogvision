@@ -1,5 +1,5 @@
 # dogvision
-My attempt at the Zero To Mastery Udemy AI/ML Bootcamp "Dog Vision" multi-class image classification with TensorFlow 2.0 project
+My attempt at the Zero To Mastery Udemy AI/ML Bootcamp "Dog Vision" multi-class image classification project with TensorFlow 2.0 
 
 https://github.com/mrdbourke/zero-to-mastery-ml/blob/wip/section-4-unstructured-data-projects/end-to-end-dog-vision.ipynb
 
