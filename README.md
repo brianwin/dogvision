@@ -1,5 +1,9 @@
 # dogvision
-My attempt at the Zero To Mastery Udemy AI/ML Bootcamp "Dog Vision" image classification with TensorFlow project
+My attempt at the Zero To Mastery Udemy AI/ML Bootcamp "Dog Vision" multi-class image classification with TensorFlow 2.0 project
+
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/wip/section-4-unstructured-data-projects/end-to-end-dog-vision.ipynb
+
+The project is inspired by a Kaggle dog breed identification competition using 10,000 labelled images of 120 different dog breeds. Here we use transfer learning based on a pre-trained model in TensorFlow Hub, namely imagenet/mobilenet_v2_130_224/classification (https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5)
 
 ## Hardware
 The course uses Google Colab, but with some minor changes to directory names (filepaths) throughout I have this working on a local machine running Ubuntu 22.04.
