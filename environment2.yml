@@ -1,0 +1,23 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  #- cudatoolkit
+  #- cudnn
+  #- cupti
+  #- mpi4py   # installs cuda-aware openmpi
+  #- nccl
+  - pip
+  - python
+  - tensorflow-gpu  # installs tensorflow=2.12 with gpu support
+  - tensorflow-hub
+  - keras
+  - pandas
+  - numpy
+  - matplotlib
+  - skikit-learn
+  - seaborn
+  - jupyter
