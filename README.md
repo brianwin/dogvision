@@ -13,4 +13,6 @@ The machine was a 14 year old (~2009) neglected home build with an Intel Core i7
 
 Already, a deep learning neural network model which the course reports taking 2+ hours to train on 10,000 images on Colab (in 2020) can be trained on this machine in 15 seconds. Hard to believe, but that's my experience. I guess Colab is much more capable these days but I haven't tried, so can't confirm that. Regardless, my fairly small outlay (< £400) eliminates the would-be cost of additional Colab processing.
 
-Model training on this machine is constrained by cpu, as expected. I have sourced (eBay) the fastest processor supported on this mobo (Xeon X5960) for £40 ($1666 new in 2011) to step up to 6 cores (12 threads) and 3.46 Ghz. I'm expecting ~15% faster which may make a difference for larger dataset processing. [Update: A little less than 30% faster where all CPUs are running flat out - which fits with increase from 8 threads to 12 threads]
+Model training on this machine is constrained by cpu, as expected. I have sourced (eBay) the fastest processor supported on this mobo (Xeon X5960) for £40 ($1666 new in 2011) to step up to 6 cores (12 threads) and 3.46 Ghz. I'm expecting ~15% faster which may make a difference for larger dataset processing. 
+
+[Update: A little less than 30% faster where all CPUs are running flat out - which fits with increase from 8 threads to 12 threads]
